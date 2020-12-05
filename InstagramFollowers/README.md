@@ -11,4 +11,4 @@ Log in to instagram.
 
 Navigate to any instagram page that is public or that you follow and click the bookmarklet.
 
-Wait a few seconds until a file downloads named <username>_followers.csv. 
+Wait a few seconds until a file downloads named username_followers.csv. 
